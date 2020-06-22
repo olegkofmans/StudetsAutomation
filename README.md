@@ -1,4 +1,7 @@
 # StudetsAutomation
+
+
+
  cd /your/project/path
 npm install cypress --save-dev
 Make sure that you have already run *** npm init *** 

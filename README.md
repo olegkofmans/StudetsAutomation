@@ -2,8 +2,8 @@
 
 
 
- cd /your/project/path
-npm install cypress --save-dev
+first step:  cd /your/project/path
+second step:  npm install cypress --save-dev
 Make sure that you have already run *** npm init *** 
 
 The long way with the full path:
